@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Transforming+Ideas+into+Code+%E2%9A%A1;Java+%E2%98%95+%7C+Web+Dev+%F0%9F%8C%90+%7C+MySQL+%F0%9F%97%84%EF%B8%8F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Transforming+Ideas+into+Code" />
 </div>
 
 <br/>
